@@ -1,0 +1,9 @@
+M:\Documents\WebBasics\FirstProject\BasicWebBrowser\bin\Debug\BasicWebBrowser.exe.config
+M:\Documents\WebBasics\FirstProject\BasicWebBrowser\bin\Debug\BasicWebBrowser.exe
+M:\Documents\WebBasics\FirstProject\BasicWebBrowser\bin\Debug\BasicWebBrowser.pdb
+M:\Documents\WebBasics\FirstProject\BasicWebBrowser\obj\Debug\BasicWebBrowser.csprojResolveAssemblyReference.cache
+M:\Documents\WebBasics\FirstProject\BasicWebBrowser\obj\Debug\BasicWebBrowser.Form1.resources
+M:\Documents\WebBasics\FirstProject\BasicWebBrowser\obj\Debug\BasicWebBrowser.Properties.Resources.resources
+M:\Documents\WebBasics\FirstProject\BasicWebBrowser\obj\Debug\BasicWebBrowser.csproj.GenerateResource.Cache
+M:\Documents\WebBasics\FirstProject\BasicWebBrowser\obj\Debug\BasicWebBrowser.exe
+M:\Documents\WebBasics\FirstProject\BasicWebBrowser\obj\Debug\BasicWebBrowser.pdb
